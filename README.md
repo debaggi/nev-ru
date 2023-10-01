@@ -18,26 +18,26 @@ DESCRIPTION
 
 STACK
 -----------
-> Terminal Ubuntu Linux [bash, python]
- 
-> Data analys: SQL, python
-> Grafana [+ Alert Prometheus] + [work systems (Telegram, Slack, other)] 
+AS IS:
+* Terminal Ubuntu Linux [bash, python];
+* Data analys: SQL, python;
+* Grafana [+ Alert Prometheus] + [work systems (Telegram, Slack, other)].
 
 
 
 WHAT DONE
 -----------
-> реализованы скрипты для получения и анализа поступающих на линкс впн-сервер пакетов (хедшейков)
-> проведен бизнес и системный анализ системы для реализации на хакатоне и версии системы postmvp;
-> проведено тестирование системы на примере протокола WireGuard
+* реализованы скрипты для получения и анализа поступающих на линкс впн-сервер пакетов (хедшейков)
+* проведен бизнес и системный анализ системы для реализации на хакатоне и версии системы postmvp;
+* проведено тестирование системы на примере протокола WireGuard
 
 WHAT NOT DONE
 -----------
 не реализована система анализа данных.
 
+
 WHAT WE HAVE TO
 -----------
-> аналитический модуль
-> тестирование системы
-> реализация private api, public api
-> 
+* аналитический модуль
+* тестирование системы
+* реализация private api, public api
