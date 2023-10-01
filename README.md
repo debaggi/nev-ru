@@ -8,8 +8,8 @@ DESCRIPTION
 
 STACK
 -----------
- -> Terminal Ubuntu Linux [bash, python]
- -> Data analys: SQL, python
+Terminal Ubuntu Linux [bash, python]
+Data analys: SQL, python
 
 
 
